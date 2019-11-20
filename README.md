@@ -2,7 +2,7 @@
 
 ## Set up
 
-Complete teh following steps to start a new project (NEW-PROJECT-NAME):
+Complete the following steps to start a new project (NEW-PROJECT-NAME):
 
 1. Clone this repository to your local machine 'git clone BOILERPLATE-URL NEW-PROJECT-NAME'
 2. 'cd' into the cloned repository
