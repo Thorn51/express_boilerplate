@@ -1,4 +1,4 @@
-# Express Boilerplate!
+# Express Boilerplate
 
 ## Set up
 
